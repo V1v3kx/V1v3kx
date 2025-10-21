@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vivek!
 
-💻 **Full Stack Developer Trainee @ JSpiders, Rajajinagar | Front-End Developer in Progress**
+💻 **Full Stack Developer Trainee @ JSpiders, Rajajinagar**
 
 I'm passionate about creating clean, user-friendly web interfaces and continuously learning the technologies that bring them to life.
 
