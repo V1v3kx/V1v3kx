@@ -35,4 +35,4 @@ I'm passionate about creating clean, user-friendly web interfaces and continuous
 ---
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
+[![LinkedIn](www.linkedin.com/in/vivek-reddy-k)
