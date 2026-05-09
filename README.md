@@ -31,8 +31,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-> 🟩 **Setup tip:** Add the [snk GitHub Action](https://github.com/Platane/snk) to your profile repo to activate this live snake on your real contribution graph!
-
 </div>
 
 ---
@@ -215,24 +213,6 @@ $ history | grep "work"
 ║  Percentage: 85.5%  |  2019 – 2021                  ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
----
-
-## `> uptime && stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivek-reddy-k&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=00FF41&icon_color=39FF14&text_color=00FF41"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-reddy-k&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&text_color=00FF41"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vivek-reddy-k&theme=dark&hide_border=true&background=0A0A0A&stroke=00FF41&ring=00FF41&fire=FF073A&currStreakLabel=00FFFF&sideLabels=00FF41&dates=39FF14)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
