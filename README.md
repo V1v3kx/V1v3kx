@@ -207,13 +207,13 @@ $ history | grep "work"
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  🎓  Reva University                                 ║
+║  🎓  Reva University                                ║
 ║  B.Tech — Artificial Intelligence & Machine Learning ║
-║  CGPA: 6.5 / 10.0  |  2021 – 2025                  ║
+║  CGPA: 6.5 / 10.0  |  2021 – 2025                    ║
 ╠══════════════════════════════════════════════════════╣
-║  📚  Narayana PU College                             ║
+║  📚  Narayana PU College                            ║
 ║  Pre-University — Science                            ║
-║  Percentage: 85.5%  |  2019 – 2021                  ║
+║  Percentage: 85.5%  |  2019 – 2021                   ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -264,7 +264,7 @@ $ history | grep "work"
   ║   "First, solve the problem.                  ║
   ║    Then, write the code."  — John Johnson     ║
   ║                                               ║
-  ║   🖥️  Built with ☕ Java & 🌙 dark terminals  ║
+  ║   🖥️  Built with ☕ Java & 🌙 dark terminals ║
   ╚═══════════════════════════════════════════════╝
 ```
 
