@@ -9,7 +9,7 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 
         "I KNOW WHAT I'M DOING"
-             └── source: trust me
+             └── trust me
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;AIML+Graduate+%7C+Spring+Boot+%7C+AWS;Building+Scalable+AI-Integrated+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
