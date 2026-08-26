@@ -274,3 +274,6 @@ $ history | grep "work"
 
 
 ## `> LeetCode Achivements`
+<div align="center">
+<img src="./leetcode50 days badge.png" width="200">
+</div>
