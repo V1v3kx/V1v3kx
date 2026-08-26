@@ -165,7 +165,7 @@ public class VivekReddyK extends Developer {
 </details>
 
 <details>
-<summary><b>🏢 Business Management Web Application — Spring Boot + MySQL</b></summary>
+<summary><b>📚 Book Management System — Spring Boot + MySQL</b></summary>
 
 <br/>
 
@@ -177,13 +177,13 @@ public class VivekReddyK extends Developer {
 ```
 
 **What it does:**
-> A full-featured business web application managing **customer data, inventory tracking, and order processing** — built with a clean Spring Boot backend, dynamic Thymeleaf-rendered UI, and a robust MySQL database.
-
+> A full-stack book management web application for adding, updating, deleting, searching, and managing book records — built with a Spring Boot backend, Spring Data JPA for database interaction, Thymeleaf for dynamic UI rendering, and MySQL for persistent data storage.
 **Key Highlights:**
-- ⚙️ **Spring Boot** RESTful backend with MVC architecture
+- ⚙️ **Spring Boot** backend with MVC architecture
+- 🔗 **Spring Data JPA** for database operations and entity management
 - 🖼️ **Thymeleaf** for server-side dynamic UI rendering
-- 🗄️ **MySQL** for structured relational data management
-- 📦 Modules: Customer Management | Inventory | Order Processing
+- 🗄️ **MySQL** for relational data storage
+- 📚 **Features:** Add Books | Update Books | Delete Books | Search Books | View Book Details
 
 </details>
 
