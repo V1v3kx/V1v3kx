@@ -44,17 +44,11 @@
 public class VivekReddyK extends Developer {
 
     private final String name        = "Vivek Reddy K";
-    private final String role        = "Java Full Stack Developer";
+    private final String role        = "Software Developer";
     private final String degree      = "B.Tech in AI & Machine Learning";
     private final String university  = "Reva University (2021–2025)";
     private final String location    = "Bengaluru, India 🇮🇳";
-    private final String passion     = "Building scalable, AI-integrated solutions";
 
-    private final String[] currentlyLearning = {
-        "AWS & Cloud Architecture ☁️",
-        "DevOps & CI/CD Pipelines 🔄",
-        "Advanced Microservices Design 🧩"
-    };
 
     public String getLifeMotto() {
         return "Clean code by day, dark terminal by night. 🌙";
