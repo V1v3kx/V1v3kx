@@ -34,6 +34,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=VIBE%20CODING&fontSize=28&fontColor=0A0A0A&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
+
 </div>
 
 ---
