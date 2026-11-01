@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/vivek-reddy-k)
 [![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF073A)](mailto:vivekreddy.n.k2003@gmail.com)
-[![Phone](https://img.shields.io/badge/📞_7892538545-0A0A0A?style=for-the-badge&logoColor=00FF41)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/PJRfYQbNZY/)
 
 </div>
 
