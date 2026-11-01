@@ -19,6 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/vivek-reddy-k)
 [![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF073A)](mailto:vivekreddy.n.k2003@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/PJRfYQbNZY/)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vivek-reddy-k.vivek-reddy-k&left_color=black&right_color=00FF41&left_text=👾%20Night%20Visitors)
 
 </div>
 
@@ -33,7 +34,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=VIBE%20CODING&fontSize=28&fontColor=0A0A0A&animation=fadeIn&fontAlignY=38" width="100%" />
@@ -58,59 +58,41 @@ public class VivekReddyK extends Developer {
 }
 ```
 
+> [!CAUTION]
+> - 🔖 Congratulations you found me
+
+> [!NOTE]
+> - 🚙 I’m currently working as a **Software Developer Intern @ Netoyed** building with **Liferay, HTML, CSS, and JavaScript**, alongside my core **Java & Spring Boot** stack.
+
+> [!IMPORTANT]
+> - 📚 Trained in **Java Full Stack Development @ JSpiders** with a **B.Tech in AI & Machine Learning @ Reva University**.
+
+> [!TIP]
+> - 📗 If you're interested in collaborating on open source, backend roles, or AI projects — I'd love to hear from you!
+
 ---
 
 ## `> ls -la skills/`
 
 <div align="center">
 
-### ⚙️ Backend Arsenal
-
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=00FF41)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-0A0A0A?style=for-the-badge&logo=spring&logoColor=39FF14)
-![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge&logo=apachekafka&logoColor=00FFFF)
-![Hibernate](https://img.shields.io/badge/Hibernate-0A0A0A?style=for-the-badge&logo=hibernate&logoColor=00FF41)
-![JPA](https://img.shields.io/badge/JPA-0A0A0A?style=for-the-badge&logo=java&logoColor=39FF14)
-![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00FF41)
-![JDBC](https://img.shields.io/badge/JDBC-0A0A0A?style=for-the-badge&logo=java&logoColor=00FFFF)
-![Servlets](https://img.shields.io/badge/Servlets-0A0A0A?style=for-the-badge&logo=java&logoColor=00FF41)
-![JSP](https://img.shields.io/badge/JSP-0A0A0A?style=for-the-badge&logo=java&logoColor=39FF14)
-
-### 🎨 Frontend Layer
-
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=FF073A)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=00FFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-0A0A0A?style=for-the-badge&logo=thymeleaf&logoColor=00FF41)
-
-### 🗄️ Data & Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=00FFFF)
-![Maven](https://img.shields.io/badge/Maven-0A0A0A?style=for-the-badge&logo=apachemaven&logoColor=FF073A)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=FF4500)
-
-### 🧠 AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FFD700)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF6600)
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-0A0A0A?style=for-the-badge&logo=google&logoColor=00FF41)
-![LSTM](https://img.shields.io/badge/LSTM-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=00FFFF)
-
-### 🛠️ Tools & IDEs
-
-![Eclipse](https://img.shields.io/badge/Eclipse-0A0A0A?style=for-the-badge&logo=eclipseide&logoColor=9932CC)
-![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF)
-![MobaXterm](https://img.shields.io/badge/MobaXterm-0A0A0A?style=for-the-badge&logo=putty&logoColor=00FF41)
-![SQL Workbench](https://img.shields.io/badge/SQL_Workbench-0A0A0A?style=for-the-badge&logo=mysql&logoColor=FF073A)
+| ⚙️ *Backend_Arsenal* | 🎨 *Frontend_Layer* | 🗄️ *Data_&_DB* | ☁️ *Cloud_&_DevOps* | 🧠 *AI_&_ML* | 🛠️ *Tools_&_IDEs* |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=00FF41) | ![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=FF073A) | ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00FF41) | ![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900) | ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FFD700) | ![Eclipse](https://img.shields.io/badge/Eclipse-0A0A0A?style=for-the-badge&logo=eclipseide&logoColor=9932CC) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=00FF41) | ![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=00FFFF) | ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00FFFF) | ![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=00FFFF) | ![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF) |
+| ![Spring MVC](https://img.shields.io/badge/Spring_MVC-0A0A0A?style=for-the-badge&logo=spring&logoColor=39FF14) | ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | | ![Maven](https://img.shields.io/badge/Maven-0A0A0A?style=for-the-badge&logo=apachemaven&logoColor=FF073A) | ![MobaXterm](https://img.shields.io/badge/MobaXterm-0A0A0A?style=for-the-badge&logo=putty&logoColor=00FF41) |
+| ![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge&logo=apachekafka&logoColor=00FFFF) | ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-0A0A0A?style=for-the-badge&logo=thymeleaf&logoColor=00FF41) | | ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=FF4500) | ![LSTM](https://img.shields.io/badge/LSTM-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=00FFFF) | ![SQL Workbench](https://img.shields.io/badge/SQL_Workbench-0A0A0A?style=for-the-badge&logo=mysql&logoColor=FF073A) |
+| ![Hibernate](https://img.shields.io/badge/Hibernate-0A0A0A?style=for-the-badge&logo=hibernate&logoColor=00FF41) | | | | | |
+| ![JPA](https://img.shields.io/badge/JPA-0A0A0A?style=for-the-badge&logo=java&logoColor=39FF14) | | | | | |
+| ![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00FF41) | | | | | |
+| ![JDBC](https://img.shields.io/badge/JDBC-0A0A0A?style=for-the-badge&logo=java&logoColor=00FFFF) | | | | | |
+| ![Servlets](https://img.shields.io/badge/Servlets-0A0A0A?style=for-the-badge&logo=java&logoColor=00FF41) | | | | | |
+| ![JSP](https://img.shields.io/badge/JSP-0A0A0A?style=for-the-badge&logo=java&logoColor=39FF14) | | | | | |
 
 </div>
+
+---
+
 
 ---
 
@@ -174,6 +156,7 @@ public class VivekReddyK extends Developer {
 
 **What it does:**
 > A full-stack book management web application for adding, updating, deleting, searching, and managing book records — built with a Spring Boot backend, Spring Data JPA for database interaction, Thymeleaf for dynamic UI rendering, and MySQL for persistent data storage.
+
 **Key Highlights:**
 - ⚙️ **Spring Boot** backend with MVC architecture
 - 🔗 **Spring Data JPA** for database operations and entity management
@@ -240,13 +223,15 @@ $ history | grep "work"
 
 ## `> ping vivek --connect`
 
+> [!WARNING]
+> - ⚡ **Response Time:** `< 24 hours` | **Current Status:** 🟢 Available for opportunities, collaborations, open source, backend roles & AI projects.
+
 <div align="center">
 
 | Platform | Link |
 |----------|------|
 | 📧 Email | [vivekreddy.n.k2003@gmail.com](mailto:vivekreddy.n.k2003@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/vivek-reddy-k](https://www.linkedin.com/in/vivek-reddy-k) |
-| 📱 Phone | +91 7892538545 |
 
 <br/>
 
@@ -275,8 +260,9 @@ $ history | grep "work"
 
 </div>
 
-
-## `> LeetCode Achivements`
+## `> LeetCode Achievements`
 <div align="center">
 <img src="./leetcode50 days badge.png" width="200">
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%" />
 </div>
