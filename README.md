@@ -188,13 +188,20 @@ public class VivekReddyK extends Developer {
 ## `> cat experience.log`
 
 ```bash
-$ history | grep "work"
+$ history | grep "training"
 
 [Oct 2025 → Apr 2026]  Java Full Stack Trainee @ JSpiders, Bengaluru
   ├── Core Java & Spring Boot REST APIs ✅
   ├── React.js for responsive frontend development ✅
   ├── Git version control in collaborative teams ✅
   └── AWS deployment & application testing ✅
+```
+```bash
+$ history | grep "work"
+
+[Sep 2026 → current ]  Software Developer Intern @ Netoyed, Bengaluru
+  ├── Liferay ✅
+  ├── HTML,CSS,Javascript ✅
 ```
 
 ---
