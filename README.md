@@ -62,10 +62,7 @@ public class VivekReddyK extends Developer {
 > - 🔖 Congratulations you found me
 
 > [!NOTE]
-> - 🚙 I’m currently working as a **Software Developer Intern @ Netoyed** building with **Liferay, HTML, CSS, and JavaScript**, alongside my core **Java & Spring Boot** stack.
-
-> [!IMPORTANT]
-> - 📚 Trained in **Java Full Stack Development @ JSpiders** with a **B.Tech in AI & Machine Learning @ Reva University**.
+> - 🚙 I’m currently working as a **Software Developer Intern @ Netoyed**.
 
 > [!TIP]
 > - 📗 If you're interested in collaborating on open source, backend roles, or AI projects — I'd love to hear from you!
