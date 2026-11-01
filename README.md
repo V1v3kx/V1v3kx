@@ -51,13 +51,11 @@ public class VivekReddyK extends Developer {
     private final String name        = "Vivek Reddy K";
     private final String role        = "Software Developer";
     private final String degree      = "B.Tech";
-    private final String university  = "Reva University (2021–2025)";
+    private final String university  = "Reva University";
     private final String location    = "Bengaluru, India 🇮🇳";
+    private String currentCompany    = "Netoyed";
+    private String currentRole       = "Software Developer Intern";
 
-
-    public String getLifeMotto() {
-        return "Clean code by day, dark terminal by night. 🌙";
-    }
 }
 ```
 
