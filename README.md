@@ -49,7 +49,6 @@
 public class VivekReddyK extends Developer {
 
     private final String name        = "Vivek Reddy K";
-    private final String role        = "Software Developer";
     private final String degree      = "B.Tech";
     private final String university  = "Reva University";
     private final String location    = "Bengaluru, India 🇮🇳";
